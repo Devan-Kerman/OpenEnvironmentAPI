@@ -1,4 +1,4 @@
-package net.devtech.openenvironmentapi;
+package net.devtech.openenvironmentapi.v0.api;
 
 import net.fabricmc.api.ModInitializer;
 

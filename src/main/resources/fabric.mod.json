@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "id": "OpenEnvironmentAPI",
+  "id": "openenvironmentapi-v0",
   "version": "${version}",
   "name": "OpenEnvironmentAPI",
-  "license": "CC0-1.0",
+  "license": "MPLv2",
   "icon": "assets/OpenEnvironmentAPI/icon.png",
   "environment": "*",
   "entrypoints": {
@@ -12,7 +12,7 @@
     ]
   },
   "mixins": [
-    "OpenEnvironmentAPI.mixins.json"
+    "openenvironmentapi.mixins.json"
   ],
   "depends": {
     "fabricloader": ">=0.11.0",

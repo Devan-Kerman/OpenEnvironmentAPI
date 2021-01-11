@@ -1,6 +1,6 @@
 {
   "required": true,
-  "package": "net.devtech.openenvironmentapi.mixin",
+  "package": "net.devtech.openenvironmentapi.internal.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
   ],
